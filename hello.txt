@@ -1,3 +1,3 @@
-this is a simple text to learn Git
+this is a simple somethinhg to learn Git
 My first Git file
-This line was added by a teammate
+This line was added by a teammate reviewing changes

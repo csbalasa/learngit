@@ -1,1 +1,3 @@
 this is a simple text to learn Git
+My first Git file
+This line was added by a teammate
